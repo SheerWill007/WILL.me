@@ -9,9 +9,7 @@ This project showcases my work, experience, certifications, and interests as a d
 
 Visit the portfolio here:
 
-https://your-vercel-link.vercel.app
-
-*(Replace with your deployed Vercel link once live.)*
+//
 
 ---
 
