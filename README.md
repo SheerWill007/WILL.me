@@ -9,7 +9,7 @@ This project showcases my work, experience, certifications, and interests as a d
 
 Visit the portfolio here:
 
-https://will-me-amber.vercel.app
+https://will-me-jew.vercel.app
 
 ---
 
