@@ -44,9 +44,9 @@ export default function Home() {
                 </p>
 
                 <p>
-                  You'll find me posting on{" "}
+                  You'll find me posting random stuff on{" "}
                   <a
-                    href="https://x.com/"
+                    href="https://x.com/SheerWill07"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="relative text-foreground after:absolute after:left-0 after:bottom-0 after:h-[1px] after:w-0 after:bg-foreground after:transition-all after:duration-300 hover:after:w-full"
