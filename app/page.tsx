@@ -31,6 +31,7 @@ export default function Home() {
               <div className="space-y-5 text-[14px] leading-7 text-foreground/90">
                 <p>I like being the person who turns ideas into outcomes.</p>
 
+                <p>Yes, I'm Aman Law.</p>
                 <p>
                   Started my career as a visual designer by chance, but I was
                   always geeked out into playing with software and stripping it
