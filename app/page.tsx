@@ -352,7 +352,7 @@ interface ExperienceProps {
 function Certification({ title, org, date, desc }: CertificationProps) {
   return (
     <div className="relative">
-      <div className="absolute -left-[33.2px] top-[8px] w-2 h-2 rounded-full bg-white" />
+      <div className="absolute -left-[33.3px] top-[8px] w-2 h-2 rounded-full bg-white" />
 
       <p className="text-base font-semibold">{title}</p>
 
@@ -372,7 +372,7 @@ function Experience({ title, date, desc, link }: ExperienceProps) {
   return (
     <div className="relative">
 
-      <div className="absolute -left-[33.2px] top-[8px] w-2 h-2 rounded-full bg-white" />
+      <div className="absolute -left-[33.3px] top-[8px] w-2 h-2 rounded-full bg-white" />
 
       <p className="text-base font-semibold">{title}</p>
 
